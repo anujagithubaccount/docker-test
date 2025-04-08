@@ -8,7 +8,7 @@ public class helloworldcontroller {
 	
 	@GetMapping("/Messagr")
 	public String getMessage() {
-		return "Hello Anusaya you successfully learn Jenkins";
+		return "Hello Anusaya you successfully learn Jenkins.";
 	}
 
 }
